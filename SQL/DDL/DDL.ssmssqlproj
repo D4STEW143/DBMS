@@ -28,6 +28,48 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery1-CREATE_DATABASE.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery2-CREATE_TABLE_Directions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-CREATE_TABLE_Directions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-CREATE_TABLE_GROUPS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-CREATE_TABLE_GROUPS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-CREATE_TABLE_Students.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-CREATE_TABLE_Students.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-CREATE_TABLE_Teachers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-CREATE_TABLE_Teachers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3-CREATE_Disciplines.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3-CREATE_Disciplines.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4-CREATE_Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4-CREATE_Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5-CREATE_All_in_one.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5-CREATE_All_in_one.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
