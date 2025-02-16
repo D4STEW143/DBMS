@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DML">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-RFC3TH8:DESKTOP-RFC3TH8\Dastew">
+          <Created>2025-02-16T18:43:49.5130775+09:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-RFC3TH8</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>VPD_311_SQL_AllInOne</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery1 - INSERT_DIRECTIONS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - INSERT_DIRECTIONS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1 - SELECT_FROM_Directions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - SELECT_FROM_Directions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - INSERT_us.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - INSERT_us.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - SELECT_COUNT_StudentsNgroups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - SELECT_COUNT_StudentsNgroups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - SELECT_FROM_Students.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - SELECT_FROM_Students.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
