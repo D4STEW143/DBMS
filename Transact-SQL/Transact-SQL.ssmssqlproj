@@ -22,6 +22,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="SQLQuery1 - CREATE SELECT FROM Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - CREATE SELECT FROM Schedule.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1 - INSERT_TO_Schedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>

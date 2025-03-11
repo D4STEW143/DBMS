@@ -1,0 +1,12 @@
+PRINT(dbo.GetGroupID(N'VPD_311'));
+PRINT(dbo.GetGroupID(N'PD_321'));
+PRINT(dbo.GetGroupID(N'PU_212'));
+PRINT(N'-------');
+PRINT(dbo.GetDisciplineID(N'Объектно%'));
+PRINT(dbo.GetDisciplineID(N'Процедур%'));
+PRINT(dbo.GetDisciplineID(N'Hard%'));
+PRINT(N'-------');
+PRINT(dbo.GetNumberOfLessons(N'Hard%'));
+PRINT(N'-------');
+PRINT(dbo.GetTeacherID(N'Ковтун'));
+SELECT * FROM Groups;

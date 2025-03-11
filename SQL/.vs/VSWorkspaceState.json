@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DDL",
+    "\\SQL"
   ],
-  "SelectedNode": "\\SQL",
+  "SelectedNode": "\\SQL.ssmssln",
   "PreviewInSolutionExplorer": false
 }
