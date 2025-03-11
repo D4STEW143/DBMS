@@ -22,6 +22,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="SQLQuery0 - CHECK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery0 - CHECK.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1 - CREATE SELECT FROM Schedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
@@ -34,11 +40,35 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 - INSERT_TO_Schedule.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery1 - SELECT DisciplineForGroup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - SELECT DisciplineForGroup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1 - SELECT ScheduleForGroup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - SELECT ScheduleForGroup.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1 - SELECT_FROM_Schedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 - SELECT_FROM_Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - CREATE SetScheduleForSemistacionar.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - CREATE SetScheduleForSemistacionar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - INSERT LessonToSchedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - INSERT LessonToSchedule.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQueryHomeWork-1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
