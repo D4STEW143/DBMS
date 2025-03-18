@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Transact-SQL">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Holidays">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-RFC3TH8:DESKTOP-RFC3TH8\Dastew">
-          <Created>2025-02-16T21:22:49.7405816+09:00</Created>
+          <Created>2025-03-17T08:22:00.6952327+09:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-RFC3TH8</Server>
           <UserName />
@@ -22,83 +22,53 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery0 - CHECK.sql">
+        <FileNode Name="SQLQuery0- TEST.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery0 - CHECK.sql</FullPath>
+          <FullPath>SQLQuery0- TEST.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - CREATE SELECT FROM Schedule.sql">
+        <FileNode Name="SQLQuery1- CREATE FUNCTION GetNewYearHolidaysStart.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - CREATE SELECT FROM Schedule.sql</FullPath>
+          <FullPath>SQLQuery1- CREATE FUNCTION GetNewYearHolidaysStart.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - INSERT_TO_Schedule.sql">
+        <FileNode Name="SQLQuery1- CREATE Tables.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - INSERT_TO_Schedule.sql</FullPath>
+          <FullPath>SQLQuery1- CREATE Tables.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - SELECT DisciplineForGroup.sql">
+        <FileNode Name="SQLQuery1- GetHolidaysStartDate.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - SELECT DisciplineForGroup.sql</FullPath>
+          <FullPath>SQLQuery1- GetHolidaysStartDate.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - SELECT ScheduleForGroup.sql">
+        <FileNode Name="SQLQuery1- SetAllDaysOff.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - SELECT ScheduleForGroup.sql</FullPath>
+          <FullPath>SQLQuery1- SetAllDaysOff.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - SELECT_FROM_Schedule.sql">
+        <FileNode Name="SQLQuery1- SetDaysOFF.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - SELECT_FROM_Schedule.sql</FullPath>
+          <FullPath>SQLQuery1- SetDaysOFF.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - CREATE SetScheduleForSemistacionar.sql">
+        <FileNode Name="SQLQuery7- GetEasterDate.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - CREATE SetScheduleForSemistacionar.sql</FullPath>
+          <FullPath>SQLQuery7- GetEasterDate.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - INSERT LessonToSchedule.sql">
+        <FileNode Name="SQLQuery7- GetSummerHolidaysStart.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - INSERT LessonToSchedule.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQueryHomeWork-1.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQueryHomeWork-1.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQueryHomeWork-2.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQueryHomeWork-2.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQueryHomeWork-3.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQueryHomeWork-3.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQueryHomeWork-4.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQueryHomeWork-4.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQueryHomeWork-5.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RFC3TH8:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-RFC3TH8</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQueryHomeWork-5.sql</FullPath>
+          <FullPath>SQLQuery7- GetSummerHolidaysStart.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
